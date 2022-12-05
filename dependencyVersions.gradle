@@ -13,7 +13,7 @@ ext {
     hibernateValidatorVersion = '7.0.1.Final'
     hibernateValidatorCdiVersion = '7.0.1.Final'
     jakartaElVersion = '4.0.0'
-    jsoupVersion = '1.13.1'
+    jsoupVersion = '1.15.3'
     commonmarkVersion = '0.18.0'
     freemarkerVersion = '2.3.31'
     gsonVersion = '2.8.7'
